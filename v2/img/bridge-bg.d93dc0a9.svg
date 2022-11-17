@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="223" viewBox="0 0 375 223">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1870da;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        fill: rgba(195,196,207,0);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        opacity: 0.6;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="圆角矩形_" data-name="圆角矩形 " class="cls-1" width="375" height="223"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2ec9ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2ec9ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#36d1ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2cc8ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.177" y1="0.13" x2="0.845" y2="0.845" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Clip" class="cls-2">
+    <g id="椭圆_21" data-name="椭圆 21" class="cls-3" transform="translate(297.925 -17.329)">
+      <ellipse id="椭圆_21-2" data-name="椭圆 21" class="cls-4" cx="44.216" cy="43.865" rx="44.216" ry="43.865" transform="translate(0 0)"/>
+      <path id="Gradient_Overlay" data-name="Gradient Overlay" class="cls-5" d="M44.216,0c24.42,0,44.216,19.414,44.216,43.362s-19.8,43.361-44.216,43.361S0,67.309,0,43.362,19.8,0,44.216,0Z" transform="translate(0 0)"/>
+    </g>
+    <g id="椭圆_21_拷贝" data-name="椭圆 21 拷贝" class="cls-6" transform="translate(-13.075 172.096)">
+      <ellipse id="椭圆_21_拷贝-2" data-name="椭圆 21 拷贝" class="cls-4" cx="27.985" cy="27.407" rx="27.985" ry="27.407" transform="translate(0 0)"/>
+      <path id="Gradient_Overlay-2" data-name="Gradient Overlay" class="cls-7" d="M27.985,0C43.441,0,55.97,12.271,55.97,27.407S43.441,54.815,27.985,54.815,0,42.544,0,27.407,12.529,0,27.985,0Z" transform="translate(0 0)"/>
+    </g>
+    <g id="椭圆_21_拷贝_2" data-name="椭圆 21 拷贝 2" class="cls-3" transform="translate(353.731 48.239)">
+      <ellipse id="椭圆_21_拷贝_2-2" data-name="椭圆 21 拷贝 2" class="cls-8" cx="12.313" cy="12.655" rx="12.313" ry="12.655"/>
+      <path id="Gradient_Overlay-3" data-name="Gradient Overlay" class="cls-9" d="M12.313,0A12.488,12.488,0,0,1,24.627,12.655,12.488,12.488,0,0,1,12.313,25.311,12.488,12.488,0,0,1,0,12.655,12.488,12.488,0,0,1,12.313,0Z" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>

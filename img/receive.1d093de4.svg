@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74" height="32" viewBox="0 0 74 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0.8;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#de9313"/>
+      <stop offset="1" stop-color="#dd9514"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feca72"/>
+      <stop offset="1" stop-color="#fdab20"/>
+    </linearGradient>
+  </defs>
+  <g id="组_66002" data-name="组 66002" transform="translate(-138.426 -222)">
+    <rect id="矩形_21656" data-name="矩形 21656" class="cls-1" width="74" height="29" rx="14.5" transform="translate(138.426 225)"/>
+    <rect id="矩形_21657" data-name="矩形 21657" class="cls-2" width="74" height="29" rx="14.5" transform="translate(138.426 222)"/>
+    <path id="圆角矩形_2_拷贝_4" data-name="圆角矩形 2 拷贝 4" class="cls-3" d="M5.607,2.775A1.387,1.387,0,0,1,5.607,0h6.268a1.387,1.387,0,1,1,0,2.775Zm-4.219,0A1.387,1.387,0,1,1,1.388,0h.239a1.387,1.387,0,0,1,0,2.775Z" transform="translate(150.052 224.951)"/>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="352" height="202" viewBox="0 0 352 202">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #fff;
+        opacity: 0.2;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee6c6a"/>
+      <stop offset="1" stop-color="#ec5e5d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.974" y1="0.089" x2="0.024" y2="0.865" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1b76fc"/>
+      <stop offset="1" stop-color="#3d8bff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="矩形_52_拷贝" data-name="矩形 52 拷贝" class="cls-1" width="352" height="202" rx="25"/>
+    </clipPath>
+  </defs>
+  <g id="组_56507" data-name="组 56507" transform="translate(-193 -396)">
+    <rect id="矩形_21377" data-name="矩形 21377" class="cls-2" width="352" height="202" rx="25" transform="translate(193 396)"/>
+    <g id="蒙版组_1" data-name="蒙版组 1" class="cls-3" transform="translate(193 396)">
+      <ellipse id="椭圆_1_拷贝_2" data-name="椭圆 1 拷贝 2" class="cls-4" cx="44.5" cy="47.5" rx="44.5" ry="47.5" transform="translate(276 -36)"/>
+      <ellipse id="椭圆_1_拷贝_2-2" data-name="椭圆 1 拷贝 2" class="cls-4" cx="43" cy="48" rx="43" ry="48" transform="translate(293 -16)"/>
+      <circle id="椭圆_1_拷贝_4" data-name="椭圆 1 拷贝 4" class="cls-4" cx="33" cy="33" r="33" transform="translate(176 113)"/>
+      <circle id="椭圆_1_拷贝_4-2" data-name="椭圆 1 拷贝 4" class="cls-4" cx="44.5" cy="44.5" r="44.5" transform="translate(145 161)"/>
+      <circle id="椭圆_1_拷贝_5" data-name="椭圆 1 拷贝 5" class="cls-4" cx="44.5" cy="44.5" r="44.5" transform="translate(204 140)"/>
+    </g>
+  </g>
+</svg>

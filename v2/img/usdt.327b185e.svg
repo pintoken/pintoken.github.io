@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1ba27a;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #707070;
+        opacity: 0.87;
+      }
+
+      .cls-4 {
+        font-size: 4px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        font-weight: 500;
+        letter-spacing: 0.025em;
+      }
+    </style>
+  </defs>
+  <g id="组_69" data-name="组 69" transform="translate(-185 -197)">
+    <g id="组_5" data-name="组 5" transform="translate(185 197)">
+      <g id="组_68" data-name="组 68">
+        <path id="路径_14582" data-name="路径 14582" class="cls-1" d="M0,10A10,10,0,1,0,10,0,10,10,0,0,0,0,10Z"/>
+        <path id="路径_14583" data-name="路径 14583" class="cls-2" d="M275.144,258.2h-7.675v1.949h2.912v2.867h1.853v-2.867h2.911Z" transform="translate(-261.384 -253.508)"/>
+      </g>
+      <path id="路径_14584" data-name="路径 14584" class="cls-2" d="M211.585,452.6c0-.648-2.2-1.172-4.929-1.172s-4.928.525-4.928,1.172c0,.571,1.713,1.046,3.978,1.151v4.176h1.864v-4.176C209.854,453.652,211.585,453.175,211.585,452.6Zm-4.929.758c-2.424,0-4.39-.408-4.39-.906s1.965-.909,4.389-.909,4.389.407,4.389.909-1.965.906-4.389.906Z" transform="translate(-196.712 -443.748)"/>
+    </g>
+    <path id="减去_1" data-name="减去 1" class="cls-3" d="M9.719,8.361a9.774,9.774,0,0,1-3.5-.64A9.69,9.69,0,0,1,3.293,5.959,10.07,10.07,0,0,1,0,0H19.718a10.068,10.068,0,0,1-3.451,5.959A10.185,10.185,0,0,1,9.719,8.361Z" transform="translate(185.143 208.639)"/>
+    <text id="BSC" class="cls-4" transform="translate(190.967 214)"><tspan x="0" y="0">BSC</tspan></text>
+  </g>
+</svg>
