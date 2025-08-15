@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.5" height="31.679" viewBox="0 0 41.5 31.679">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8c642;
+      }
+
+      .cls-2 {
+        fill: #7b49b6;
+      }
+
+      .cls-3 {
+        fill: #fc3a64;
+      }
+
+      .cls-4 {
+        fill: #4657e3;
+      }
+    </style>
+  </defs>
+  <g id="组_66014" data-name="组 66014" transform="translate(-167 -275)">
+    <g id="组_66013" data-name="组 66013" transform="translate(167 275)">
+      <g id="组_65966" data-name="组 65966">
+        <path id="路径_32881" data-name="路径 32881" class="cls-1" d="M719.669,530.126h-3.235v-7.865h3.235Zm1.19-7.865h-1.19v7.865h5.139v-7.865Z" transform="translate(-683.309 -506.311)"/>
+        <path id="路径_32882" data-name="路径 32882" class="cls-1" d="M719.8,660.037h-3.364v-7.865H719.8Z" transform="translate(-683.309 -628.358)"/>
+        <path id="路径_32883" data-name="路径 32883" class="cls-2" d="M774.28,660.048h-4.414v-7.864h5.138v7.138A.726.726,0,0,1,774.28,660.048Z" transform="translate(-733.507 -628.369)"/>
+        <path id="路径_32884" data-name="路径 32884" class="cls-3" d="M723.706,400.2h-7.272v-7.865h7.272Z" transform="translate(-683.309 -384.253)"/>
+        <path id="路径_32885" data-name="路径 32885" class="cls-4" d="M793.479,400.2h-3.95v-7.865h3.95Z" transform="translate(-751.979 -384.253)"/>
+        <path id="路径_32886" data-name="路径 32886" class="cls-1" d="M180.066,285.77l-1.222,5.385h-9.632l7.685-31.607h13.567l7.291,31.608h-9.529l-1.243-5.385Zm1.7-7.415h3.521l-1.739-7.727Z" transform="translate(-169.212 -259.501)"/>
+        <path id="路径_32887" data-name="路径 32887" class="cls-2" d="M274.653,259.547l-1.386,5.7h16.268l-1.315-5.7Z" transform="translate(-266.968 -259.501)"/>
+        <path id="路径_32888" data-name="路径 32888" class="cls-3" d="M192.649,570.245h12.962l1.7,7.415H190.846Z" transform="translate(-189.537 -551.391)"/>
+        <path id="路径_32889" data-name="路径 32889" class="cls-4" d="M406,442.6h9.474l1.782,7.727H407.74Z" transform="translate(-391.667 -431.477)"/>
+        <path id="路径_32890" data-name="路径 32890" class="cls-3" d="M718.556,241.893h8.117v2.882h-8.117Z" transform="translate(-685.302 -241.893)"/>
+        <path id="路径_32891" data-name="路径 32891" class="cls-3" d="M718.556,288.088h8.117v2.882h-8.117Z" transform="translate(-685.302 -285.291)"/>
+      </g>
+    </g>
+  </g>
+</svg>
